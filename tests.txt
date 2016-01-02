@@ -1,0 +1,20 @@
+▸ Cleaning Jumblify/Jumblify [Debug]
+▸ Check Dependencies
+▸ Cleaning Jumblify/JumblifyTests [Debug]
+▸ Check Dependencies
+▸ Clean Succeeded
+▸ Building Jumblify/Jumblify [Debug]
+▸ Check Dependencies
+▸ Building Jumblify/JumblifyTests [Debug]
+▸ Check Dependencies
+▸ Test Succeeded
+All tests
+Test Suite JumblifyTests.xctest started
+JumblifyViewControllerTests
+    ✓ testDoSomethingThatTakesSomeTime (2.007 seconds)
+    ◷ testPerformanceReverseString measured (0.000 seconds)
+    ✓ testPerformanceReverseString (0.281 seconds)
+    ✓ testReverseString (0.000 seconds)
+
+
+Executed 3 tests, with 0 failures (0 unexpected) in 2.289 (2.292) seconds
